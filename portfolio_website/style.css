@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(217, 215, 215);   
+    font-family: serif;
+}
+
+img {
+    max-width: 150px;
+    padding: 10px;
+    border: 2em;
+    border-color: rgb(186, 81, 81);
+}
